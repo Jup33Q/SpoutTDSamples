@@ -1,8 +1,6 @@
 # SpoutTDSamples
 here is Spout Sample project for LKG portrait
 
-# the detailed effect is shown below
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114251666562849&bvid=BV1xYZrYyEjh&cid=29152248396&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
+Check out this Bilibili video: [Link to Bilibili Video]([https://www.bilibili.com/video/BV123456789](https://www.bilibili.com/video/BV1xYZrYyEjh/?vd_source=86ac50adfb97fa81fefdc85ec3eee777
+))
 
